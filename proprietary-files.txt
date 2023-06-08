@@ -121,3 +121,12 @@ vendor/firmware/setfile_3h1.bin
 vendor/firmware/setfile_imx320.bin
 vendor/firmware/setfile_imx333.bin
 vendor/firmware/vts.bin
+
+# Audio
+lib/hw/audio.a2dp.default.so
+lib/hw/audio.playback_record.default.so
+lib/hw/audio.primary.universal8895.so
+lib/hw/audio.tms.default.so
+lib64/hw/audio.a2dp.default.so
+vendor/lib/hw/audio.primary.default.so
+vendor/lib64/hw/audio.primary.default.so
